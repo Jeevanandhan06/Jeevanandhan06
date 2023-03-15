@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 📫 How to reach me **jeevayya06@gmail.com**
-- ![image](https://user-images.githubusercontent.com/106806022/225278858-355f19fa-d77f-48f6-b2c0-a28d28a5ac52.png)
+ ![image](https://user-images.githubusercontent.com/106806022/225278858-355f19fa-d77f-48f6-b2c0-a28d28a5ac52.png)
 
 
 <h3 align="left">Connect with me:</h3>
